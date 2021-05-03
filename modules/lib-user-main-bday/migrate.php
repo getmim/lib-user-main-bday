@@ -9,6 +9,13 @@ return [
                     'null' => true
                 ],
                 'index' => 4600
+            ],
+            'birthplace' => [
+                'type' => 'VARCHAR',
+                'attrs' => [
+                    'null' => true
+                ],
+                'index' => 4700
             ]
         ]
     ]

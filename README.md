@@ -1,6 +1,6 @@
 # lib-user-main-bday
 
-Additional `birthdate` property for module lib-user-main
+Additional `birthdate` dan `birthplace` property for module lib-user-main
 
 ## Instalasi
 
